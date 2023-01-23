@@ -1,1 +1,1 @@
-# gitaction
+# SoftServe DevOps Fundamentals GitAction
